@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-hardhat-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-12-16T23:01:03.551959+05:30"
+    description: A Helm chart for Hardhat AI Pod and Service
+    digest: bb78057269f880df71bfdf7983996a9a8f0de5fd5f63feb972e0954e0b15958e
+    name: my-hardhat-chart
+    urls:
+    - https://raw.githubusercontent.com/sathiyadev84/hardhat_detection/main/charts/my-hardhat-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-16T23:01:03.551403+05:30"
